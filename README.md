@@ -64,6 +64,8 @@ Three questions have been raised, from the easiest question to answer to the har
 
 ## Demo Preview
 
+<img width="608" alt="Capture d’écran 2022-07-07 à 01 25 30" src="https://user-images.githubusercontent.com/82478538/177659473-de19db27-20fd-4817-b2c7-83d80902759d.png">
+
 
 
 # Installation
