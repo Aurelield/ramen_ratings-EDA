@@ -44,15 +44,27 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 ## Dataset contents
 
-The Ramen Rater is a product review website for the hardcore ramen enthusiast (or "ramenphile"), with over 2500 reviews to date. This dataset is an export of "The Big List" (of reviews), converted to a CSV format.
-
-
-Each record in the dataset is a single ramen product review. Review numbers are contiguous: more recently reviewed ramen varieties have higher numbers. Brand, Variety (the product name), Country, and Style (Cup? Bowl? Tray?) are pretty self-explanatory. Stars indicate the ramen quality, as assessed by the reviewer, on a 5-point scale; this is the most important column in the dataset!
-
-Note that this dataset does not include the text of the reviews themselves. For that, you should browse through https://www.theramenrater.com/ instead!
+This dataset originally come from The Ramen Rater, a product review website dedicated to ramen only.
+The dataset contains 2580 rows that correspond to 2580 product reviews.
+In other words, one row means one sigle ramen product review.
+The higher the number, the more recently the ramen product is reviewed.
+The table has 7 columns:
+- Brand
+- Variety(label, the product name)
+- Country
+- Style (is it in pack? in cup? in bar?)
+- Ratings ( Stars refer to the ramen quality  on a 5-point scale)
 
 ## Questions
+Three questions have been raised, from the easiest question to answer to the hardest one.
+1) How is ramen manufacturing internationally distributed?
+2) Is there a relation between the ratings and the product's style?
+3) At last but not least, What makes a good ramen?
+
+
 ## Demo Preview
+
+
 
 # Installation
 [(Back to top)](#table-of-contents)
