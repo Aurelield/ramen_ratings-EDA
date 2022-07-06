@@ -64,8 +64,7 @@ Three questions have been raised, from the easiest question to answer to the har
 
 ## Demo Preview
 
-<img width="608" alt="Capture d’écran 2022-07-07 à 01 25 30" src="https://user-images.githubusercontent.com/82478538/177659473-de19db27-20fd-4817-b2c7-83d80902759d.png">
-
+<img width="608" alt="Capture d’écran 2022-07-07 à 01 25 30" src="https://user-images.githubusercontent.com/82478538/177659473-de19db27-20fd-4817-b2c7-83d80902759d.png"> <img width="584" alt="Capture d’écran 2022-07-07 à 01 26 18" src="https://user-images.githubusercontent.com/82478538/177659520-30a6050b-3775-4772-ab42-bc445075322d.png"> <img width="563" alt="Capture d’écran 2022-07-07 à 01 26 58" src="https://user-images.githubusercontent.com/82478538/177659528-1a0533b2-c231-4d8a-a446-659adb8f05f9.png"> <img width="522" alt="Capture d’écran 2022-07-07 à 01 27 22" src="https://user-images.githubusercontent.com/82478538/177659532-b10aeb3d-d53f-4cc1-83c2-39199448feca.png">
 
 
 # Installation
