@@ -39,8 +39,6 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Usage](#usage)
 - [Results](#results)
 - [Issues](#issues)
-- [License](#license)
-- [Footer](#footer)
 
 ## Dataset contents
 
@@ -68,64 +66,42 @@ Three questions have been raised, from the easiest question to answer to the har
 
 
 # Installation
-[(Back to top)](#table-of-contents)
 
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
+Here are the command lines of the production environment.
 
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
+```sh
+import pandas as pd
+import seaborn as sn
+import matplotlib.pyplot as plt
+import fuzzywuzzy
+from fuzzywuzzy import process
+%matplotlib inline
+from fuzzywuzzy import fuzz
+```
 
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
-
-Following this steps, **they should be able to run this in their device.**
-
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
-
-<!-- Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
 # Usage
 [(Back to top)](#table-of-contents)
 
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
+- It could be interesting to compare the ramen ratings with other product (such as pasta, wine, chocolate...) reviews.
+- A 'ramen' dataset with the price of each product coul explain that the purchases of ramen did not get the highest rating but the highest distribution.
+
 
 # Results
 [(Back to top)](#table-of-contents)
 
-<!-- This is the place where you give instructions to developers on how to modify the code.
+Here are some results from the data analysis in order of the questions.
 
-You could give **instructions in depth** of **how the code works** and how everything is put together.
-
-You could also give specific instructions to how they can setup their development environment.
-
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
+- Most ramen products are produced by Japan, the USA and South Korea.
+- More than 59% of noodle are sold in pack but the style that is the highest rated is the bar.
+- Pack noodles has the most distributed noodle style ==>  sellers mostly buy noodle in pack.
+- Chicken and beef ramen are the highest distribution. It means that most people buy chicken or beef ramen.
+- At most styles pork and beef are usually rated higher compared to chicken and shrimp.
+- Noodles and ramen are the most consumed types of 'ramen'.
+- No spicy noodles are the most distributed and they get the highest rating.
 
 # Issues
 
-# License
-[(Back to top)](#table-of-contents)
+- Missing values
+- A lot of 'unspecified' values when features have been extracted
 
-<!-- Adding the license to README is a good practice so that people can easily refer to it.
-
-Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
-
-I personally add the name of the license and provide a link to it like below. -->
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
-
-# Footer
-[(Back to top)](#table-of-contents)
-
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
-
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-<!-- Add the footer here -->
-
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
