@@ -88,7 +88,7 @@ from fuzzywuzzy import fuzz
 
 ## Results
 
-Here are some results from the data analysis in order of the questions.
+Here are some results from the data analysis following the order of the questions.
 
 - Most ramen products are produced by Japan, the USA and South Korea.
 - More than 59% of noodle are sold in pack but the style that is the highest rated is the bar.
