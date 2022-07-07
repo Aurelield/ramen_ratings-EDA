@@ -1,11 +1,11 @@
-
+# What makes a good ramen? Feature extractions and overall EDA 
 <img src="https://glouton.b-cdn.net/u/recipes/thumbs/14252.jpg" width="1280" height="650">
 
-# What makes a good ramen? Feature extractions and overall EDA 
+
 
 <!-- Add banner here -->
 
-The aim of this project is to observe and analyse a dataset of ramen ratings. The dataset has been taken on https://www.kaggle.com/datasets/residentmario/ramen-ratings.
+The aim of this project is to observe and analyse a dataset of ramen ratings. The dataset has been taken from https://www.kaggle.com/datasets/residentmario/ramen-ratings.
 
 <!-- Add buttons here -->
 
@@ -44,7 +44,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 This dataset originally come from The Ramen Rater, a product review website dedicated to ramen only.
 The dataset contains 2580 rows that correspond to 2580 product reviews.
-In other words, one row means one sigle ramen product review.
+In other words, one row means one single ramen product review.
 The higher the number, the more recently the ramen product is reviewed.
 The table has 7 columns:
 - Brand
