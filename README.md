@@ -103,4 +103,4 @@ Here are some results from the data analysis in order of the questions.
 
 - Missing values
 - A lot of 'unspecified' values when features have been extracted
-
+- Handle with categorical values written twice differently
