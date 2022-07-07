@@ -1,4 +1,4 @@
-# What makes a good ramen? Feature extractions and overall EDA 
+# What makes a good ramen? Features extraction and overall EDA 
 <img src="https://glouton.b-cdn.net/u/recipes/thumbs/14252.jpg" width="1280" height="650">
 
 
